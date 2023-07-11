@@ -10,7 +10,7 @@ coverY: 0
 # whitelist / pre-registration workflow
 
 {% hint style="info" %}
-latest version: **v1.1**
+latest version: **v2.0**
 {% endhint %}
 
 **Transparency** is very important to us and **we believe people should not trust open projects obfuscating their source code** in private repositories…
@@ -19,7 +19,6 @@ For what it’s worth, **poln is a new web3 project** and **all** **sources are 
 
 They can be forked and implementation can be duplicated or modified.
 
-BTW, this is what we expect 😅
 
+> BTW, this is what we expect 😅
 > We do believe newcomers and beginners will appreciate this “fair” approach.\
->
