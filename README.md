@@ -8,5 +8,5 @@ coverY: 135
 # whitepaper
 
 {% hint style="info" %}
-latest version : **v1.3.0**
+latest version : **v2.0.0**
 {% endhint %}
