@@ -8,5 +8,13 @@ coverY: 135
 # whitepaper
 
 {% hint style="info" %}
-latest version : **v2.0.0**
+latest version : **v2.0.1**
+{% endhint %}
+
+{% hint style="danger" %}
+<mark style="color:red;">**DISCLAIMER**</mark>
+
+This **document contains multiple outdated sections.**
+
+You should _consider this white paper as a legacy project_ barely focused on IT recruitment pains...&#x20;
 {% endhint %}
