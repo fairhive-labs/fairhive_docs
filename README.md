@@ -16,5 +16,5 @@ latest version : **v2.0.1**
 
 This **document contains multiple outdated sections.**
 
-You should consider this _white paper as a legacy project_ barely focused on IT recruitment pains...&#x20;
+You should consider this white paper as a **_legacy project_** barely focused on IT recruitment pains...&#x20;
 {% endhint %}
