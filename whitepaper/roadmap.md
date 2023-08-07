@@ -18,7 +18,7 @@ description: >-
 * Mint the token
 * Waitlist / Whitelist
 * Develop community & partnerships
-* Private Sale #1
+* Pre-Seed / Private Sale #1
 
 </details>
 
