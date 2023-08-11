@@ -22,7 +22,7 @@
     * [Networks](whitepaper/future-architecture-asbc/networks.md)
     * [DevOps CI/CD](whitepaper/future-architecture-asbc/devops-ci-cd.md)
     * [Multichain and subnets](whitepaper/future-architecture-asbc/multichain-and-subnets.md)
-* [whitelist / pre-registration workflow](whitelist-pre-registration-workflow/README.md)
+* [waitlist / pre-registration workflow](whitelist-pre-registration-workflow/README.md)
   * [step #1 — Registration](whitelist-pre-registration-workflow/step-1-registration.md)
   * [step #2 — Activation](whitelist-pre-registration-workflow/step-2-activation.md)
   * [sequence diagram](whitelist-pre-registration-workflow/sequence-diagram.md)
