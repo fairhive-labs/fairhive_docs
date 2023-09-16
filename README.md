@@ -1,8 +1,22 @@
 ---
 description: Decentralized Economy for Recruitment and Trusted Projects
 cover: >-
-  https://images.unsplash.com/reserve/yra1GBrGTB65qtZpFaly_day%202.jpg?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxwb2xsZW58ZW58MHx8fHwxNjg5MTE1NjQxfDA&ixlib=rb-4.0.3&q=85
-coverY: 135
+  .gitbook/assets/_whyvrafvr_word_fairhive_composed_of_big_pixel_hexagon_big_pixe_df5fd041-4855-4b42-a373-78907550f69e.png
+coverY: 385.83605745418527
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # whitepaper

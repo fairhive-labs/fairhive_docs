@@ -10,7 +10,7 @@ description: >-
 
 <summary><span data-gb-custom-inline data-tag="emoji" data-code="1f535">🔵</span> <strong>Arturo_Fuente</strong></summary>
 
-### Tasks:
+#### Tasks:
 
 * Pitch deck
 * Whitepaper
@@ -26,7 +26,7 @@ description: >-
 
 <summary><span data-gb-custom-inline data-tag="emoji" data-code="1f7e1">🟡</span> <strong>Bolivar</strong></summary>
 
-### Tasks:
+#### Tasks:
 
 * Airdrop #1
 * Giveaway
@@ -43,7 +43,7 @@ description: >-
 
 <summary><span data-gb-custom-inline data-tag="emoji" data-code="1f7e1">🟡</span> Cohiba</summary>
 
-### Tasks:
+#### Tasks:
 
 * Airdrops
 * Public Sale
@@ -59,7 +59,7 @@ description: >-
 
 <summary><span data-gb-custom-inline data-tag="emoji" data-code="1f7e1">🟡</span> Davidoff</summary>
 
-### **Tasks :**
+#### **Tasks :**
 
 * Extend Staking
 * Support More Stablecoins
@@ -76,7 +76,7 @@ description: >-
 
 <summary><span data-gb-custom-inline data-tag="emoji" data-code="1f7e1">🟡</span> El Rey del Mundo</summary>
 
-### **Tasks :**
+#### **Tasks :**
 
 * Decentralized Development
 * DAO
@@ -92,7 +92,7 @@ description: >-
 
 <summary><span data-gb-custom-inline data-tag="emoji" data-code="1f7e1">🟡</span> Fonseca</summary>
 
-### **Tasks :**
+#### **Tasks :**
 
 * Application Specific Blockchain (ASBC)
 * DAO
