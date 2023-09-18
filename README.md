@@ -22,7 +22,7 @@ layout:
 # whitepaper
 
 {% hint style="info" %}
-latest version : **v2.0.2**
+latest version : **v2.0.3**
 {% endhint %}
 
 {% hint style="danger" %}
@@ -34,7 +34,11 @@ You should consider this white paper as a _**legacy project**_ barely focused on
 {% endhint %}
 
 {% hint style="warning" %}
-_Processing fairhive.io migration..._
+**Processing fairhive.io migration...**
 
-Assets are moving to **poln.org**
+
+
+Assets are moving to PoLN project**:** you can **request an access** to the protected assets by sending an email to contact@fairhive-labs.com.
+
+Please ensure you clearly state who you are and the reason for your request, as this information is mandatory for processing.
 {% endhint %}
